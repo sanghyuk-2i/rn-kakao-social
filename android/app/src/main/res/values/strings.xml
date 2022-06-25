@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RNKakaoSocial</string>
+    <string name="kakao_app_key">49124b15ff7958860a13e708df190299</string>
 </resources>
